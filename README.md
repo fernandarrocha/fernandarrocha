@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernandarrocha
 - 👀 I’m interested in web development;
-- 🌱 I’m currently learning Javascript, HTML, CSS, Java;
+- 🌱 I’m currently learning Javascript, HTML, CSS, Java, Python;
 - 💞️ I’m looking for experience in web development;
 - 📫 My email is contato.fernandaroc@gmail.com.
 
