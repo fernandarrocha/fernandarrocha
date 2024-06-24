@@ -56,6 +56,12 @@
 
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
 
+- Gosto de jogar, principalmente jogos online e rpg;
+- Adoro ouvir música, sou eclética porém gosto mais do gênero do metal, gothic metal, new metal, power metal, death metal e etc;
+- Adoro começar novos hobbies, inclusive agora estou aprendendo a tocar guitarra, também influenciada pelo metal;
+- Sempre me interessei por arte, amo desenhar e pintar em aquarela;
+- Adoro animes e mangás. 
+
 
 </div>
 </div>
