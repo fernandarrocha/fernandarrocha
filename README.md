@@ -60,7 +60,6 @@
 - Adoro ouvir música, sou eclética porém gosto mais do gênero do metal, gothic metal, new metal, power metal, death metal e etc;
 - Adoro começar novos hobbies, inclusive agora estou aprendendo a tocar guitarra, também influenciada pelo metal;
 - Sempre me interessei por arte, amo desenhar e pintar em aquarela;
-- Prefiro Senhor dos anéis do que Harry Potter;
 - Adoro animes e mangás. 
 
 
