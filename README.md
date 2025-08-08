@@ -35,7 +35,7 @@
 
 </div>
 <div align="justify">
-<i><b>Olá</b> :wave:, sou a <code>Fernanda</code>, tenho 26 anos, moro em BH e sou aspirante a programadora desde os 23 anos de idade. Atualmente sou <code>estagiária</code> de suporte em TI, na empresa MDI Tecnologia, estou cursando Análise e Desenvolvimento de Sistemas na faculdade <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
+<i><b>Olá</b> :wave:, sou a <code>Fernanda</code>, tenho 26 anos, moro em BH e sou aspirante a programadora desde os 23 anos de idade. Atualmente sou <code>estagiária</code> de análise de dados, criando dashboards em Power BI e presto suporte ao sistema Protheus, na Prefeitura de Belo Horizonte, estou cursando Análise e Desenvolvimento de Sistemas na faculdade <a href="https://newtonpaiva.br/" target="_blank">Centro Universitário Newton Paiva</a>.
 </div>
 
 ---------
